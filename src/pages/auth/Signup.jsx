@@ -1,10 +1,13 @@
 import React from 'react'
+import SignupForm from '../../components/SignupForm'
 
 const Signup = () => {
   return (
-    <div>
-      Signup
+    <div className='flex justify-center items-centar h-full w-full'>
+       <SignupForm/>
     </div>
+   
+ 
   )
 }
 
