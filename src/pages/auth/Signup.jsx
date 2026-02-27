@@ -3,7 +3,7 @@ import SignupForm from '../../components/SignupForm'
 
 const Signup = () => {
   return (
-    <div className='flex justify-center items-centar h-full w-full'>
+    <div className='flex justify-center items-center h-full w-full'>
        <SignupForm/>
     </div>
    
